@@ -7,3 +7,5 @@ Vertex AI: Qwik Start|GSP917
 2nd Task of the Game
 Generative AI with Vertex AI: Getting Started|GSP1150
 
+Generative AI with Vertex AI: Prompt Design|GSP1151
+
